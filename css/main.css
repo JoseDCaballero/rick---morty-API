@@ -5,7 +5,9 @@
     font-family:'arial'; ;
 }
 body {
-    background-color: black
+    /*background-color: black*/
+    background-image: url(https://i.pinimg.com/originals/c2/ba/87/c2ba874a4bd0e3bb30fe18b1b0c10cf4.gif);
+    background-size: cover;
 }
 h1{
     text-align: center;
@@ -28,7 +30,7 @@ article{
     padding: 10px;
     box-shadow: 0px 0px 1px #824a4a;
     border-radius: 5px;
-    border: solid #E8FB26;
+    border: none /*solid #E8FB26;*/
 }
 
 /* ul{
